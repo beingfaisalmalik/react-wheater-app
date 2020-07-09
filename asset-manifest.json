@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/beingfaisalmalik/react-wheater-app/static/css/main.e4b4baa0.chunk.css",
-    "main.js": "/beingfaisalmalik/react-wheater-app/static/js/main.32c2e689.chunk.js",
-    "main.js.map": "/beingfaisalmalik/react-wheater-app/static/js/main.32c2e689.chunk.js.map",
-    "runtime-main.js": "/beingfaisalmalik/react-wheater-app/static/js/runtime-main.2d86a2c3.js",
-    "runtime-main.js.map": "/beingfaisalmalik/react-wheater-app/static/js/runtime-main.2d86a2c3.js.map",
-    "static/js/2.07144284.chunk.js": "/beingfaisalmalik/react-wheater-app/static/js/2.07144284.chunk.js",
-    "static/js/2.07144284.chunk.js.map": "/beingfaisalmalik/react-wheater-app/static/js/2.07144284.chunk.js.map",
-    "index.html": "/beingfaisalmalik/react-wheater-app/index.html",
-    "precache-manifest.41c84052a41ad1cf82f3bd0f2df09b19.js": "/beingfaisalmalik/react-wheater-app/precache-manifest.41c84052a41ad1cf82f3bd0f2df09b19.js",
-    "service-worker.js": "/beingfaisalmalik/react-wheater-app/service-worker.js",
-    "static/css/main.e4b4baa0.chunk.css.map": "/beingfaisalmalik/react-wheater-app/static/css/main.e4b4baa0.chunk.css.map",
-    "static/js/2.07144284.chunk.js.LICENSE": "/beingfaisalmalik/react-wheater-app/static/js/2.07144284.chunk.js.LICENSE",
-    "static/media/index.css": "/beingfaisalmalik/react-wheater-app/static/media/warm-bg.635ed87d.jpg"
+    "main.css": "/react-wheater-app/static/css/main.c9cae790.chunk.css",
+    "main.js": "/react-wheater-app/static/js/main.1fdac0a7.chunk.js",
+    "main.js.map": "/react-wheater-app/static/js/main.1fdac0a7.chunk.js.map",
+    "runtime-main.js": "/react-wheater-app/static/js/runtime-main.2945ba7e.js",
+    "runtime-main.js.map": "/react-wheater-app/static/js/runtime-main.2945ba7e.js.map",
+    "static/js/2.07144284.chunk.js": "/react-wheater-app/static/js/2.07144284.chunk.js",
+    "static/js/2.07144284.chunk.js.map": "/react-wheater-app/static/js/2.07144284.chunk.js.map",
+    "index.html": "/react-wheater-app/index.html",
+    "precache-manifest.af372d82904ae8f2e3ae4387adf6f0a8.js": "/react-wheater-app/precache-manifest.af372d82904ae8f2e3ae4387adf6f0a8.js",
+    "service-worker.js": "/react-wheater-app/service-worker.js",
+    "static/css/main.c9cae790.chunk.css.map": "/react-wheater-app/static/css/main.c9cae790.chunk.css.map",
+    "static/js/2.07144284.chunk.js.LICENSE": "/react-wheater-app/static/js/2.07144284.chunk.js.LICENSE",
+    "static/media/index.css": "/react-wheater-app/static/media/warm-bg.635ed87d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d86a2c3.js",
+    "static/js/runtime-main.2945ba7e.js",
     "static/js/2.07144284.chunk.js",
-    "static/css/main.e4b4baa0.chunk.css",
-    "static/js/main.32c2e689.chunk.js"
+    "static/css/main.c9cae790.chunk.css",
+    "static/js/main.1fdac0a7.chunk.js"
   ]
 }
